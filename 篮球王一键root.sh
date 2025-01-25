@@ -1,0 +1,30 @@
+sleep 1
+echo "一键root"
+echo "程序正在加载中..."
+sleep 0.5
+echo "□□□□□□□□□□"
+sleep 1
+echo "■□□□□□□□□□" 
+sleep 1
+echo "■■□□□□□□□□"
+sleep 1
+echo "■■■□□□□□□□"
+sleep 1
+echo "■■■■□□□□□□"
+sleep 1
+echo "■■■■■□□□□□"
+sleep 1
+echo "■■■■■■□□□□"
+sleep 1
+echo "■■■■■■■□□□"
+sleep 1
+echo "■■■■■■■■□□"
+sleep 1
+echo "■■■■■■■■■□"
+sleep 1
+echo "■■■■■■■■■■"
+echo "启动成功！"
+sleep 0.5
+su
+su2
+echo "已授予MT管理器超级用户权限"
